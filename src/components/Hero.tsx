@@ -7,7 +7,7 @@ const Hero: React.FC = () => {
     <section className={styles.heroSec}>
       <div className='container'>
         <div className='flex flex-wrap'>
-          <div className='w-full md:w-1/2'>hiiiiii fat</div>
+          <div className='w-full md:w-1/2'>hiiiiii f5at</div>
           <div className='w-full md:w-1/2'></div>
         </div>
       </div>
